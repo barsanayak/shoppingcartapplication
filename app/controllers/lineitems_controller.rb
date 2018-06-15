@@ -1,5 +1,6 @@
 class LineitemsController < ApplicationController
   include CurrentCart
+  skip_before_action :authorize
   before_action :set_cart
 
   before_action :set_lineitem, only: [:show, :edit, :update, :destroy]
@@ -38,7 +39,7 @@ class LineitemsController < ApplicationController
 
       if @lineitem.save
         format.html { redirect_to shopper_url }
-        format.js
+        #format.js
         format.json { render :show, status: :created, location: @lineitem }
       else
         format.html { render :new }
