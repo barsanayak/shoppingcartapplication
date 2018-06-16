@@ -32,4 +32,9 @@ INFORMATION :
 Username :barsa
 Password:barsa
 
+Screenshots :
+
+Shopper View of the online shopping cart application :
+![Alt Text](https://raw.github.com/barsanayak/interviewquestions/blob/master/1-shopper-view.png)
+
 
