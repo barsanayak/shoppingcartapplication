@@ -35,6 +35,6 @@ Password:barsa
 Screenshots :
 
 Shopper View of the online shopping cart application :
-![Alt Text](https://raw.github.com/barsanayak/interviewquestions/blob/master/1-shopper-view.png)
+![Alt Text](https://raw.githubusercontent.com/barsanayak/interviewquestions/master/1-shopper-view.png)
 
-
+![Screenshot](https://raw.githubusercontent.com/barsanayak/interviewquestions/master/1-shopper-view.png)
